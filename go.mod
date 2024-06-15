@@ -1,4 +1,4 @@
-module github.com/Davincible/chromedp-undetected
+module https://github.com/xlebdev/chromedp-undetected/tags
 
 go 1.19
 
