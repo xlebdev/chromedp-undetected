@@ -1,4 +1,4 @@
-module https://github.com/xlebdev/chromedp-undetected/tags
+module https://github.com/xlebdev/chromedp-undetected
 
 go 1.19
 
